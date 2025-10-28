@@ -1,0 +1,24 @@
+# Node modules (auto-downloaded packages)
+node_modules/
+
+# Environment variables (contains secrets like JWT secret, DB passwords)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: IDE/editor config
+.vscode/
+.idea/
+
+# Build output (if you ever build or transpile code)
+dist/
+build/
