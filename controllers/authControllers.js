@@ -73,4 +73,3 @@ export const checkToken = async (req, res) => {
     res.status(500).json({ message: "Internal server error" });
   }
 };
->>>>>>> 57d36b4 (Initial commit from vs code  with auth API code)
